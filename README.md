@@ -1,29 +1,32 @@
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Siddhart Tomar</h1>
-<h3 align="center">🚀 Generative AI & Data Science Enthusiast | Machine Learning & Python Developer | Transforming Data into AI-Driven Insights
+<h3 align="center">🚀 Generative AI | Machine Learning | Data Science Enthusiast</h3>
 
-🔹 Expertise: Python, Machine Learning, Generative AI, Deep Learning
-🔹 Skills: Data Analysis, NLP, Computer Vision, Model Deployment
-🔹 Tools: TensorFlow, PyTorch, OpenAI, Pandas, NumPy, Power BI
-
-💡 Passionate about building intelligent systems, data-driven solutions, and AI-powered applications.
-
-📍 Let’s connect & collaborate on AI & Data Science projects!</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ4bzFmcWlpNmh0cnZraXB0MzJ2MDY1ajFsZDlmdTZlejNhZWYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" alt= "data never lie">
-
-- 📫 How to reach me **tomar.sid21@gmail.com**
-
-<h3 align="left">Connect with me: **https://www.linkedin.com/in/siddharth-tomar-6267471ba/** </h3>
-<p align="left">
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ4bzFmcWlpNmh0cnZraXB0MzJ2MDY1ajFsZDlmdTZlejNhZWYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="400" alt="AI & Data Science">
 </p>
 
+---
 
-                      
+### 🚀 About Me
+🔹 **Generative AI & Data Science Enthusiast** passionate about **building AI-powered applications, automating workflows, and extracting insights from data.**  
+🔹 Experienced in **Machine Learning, Deep Learning, and Model Deployment.**  
+🔹 Love exploring **NLP, Computer Vision, and AI-driven innovations!**  
 
+---
 
- 
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **AI & ML:** TensorFlow, PyTorch, OpenAI, Hugging Face  
+- **Data Science:** Pandas, NumPy, Scikit-Learn  
+- **Visualization:** Matplotlib, Seaborn, Power BI  
+- **Tools:** Jupyter, Google Colab, Docker, Git  
+
+---
+
+### 📫 Get in Touch!
+💌 **Email:** tomar.sid21@gmail.com  
+🔗 **LinkedIn:** [Siddharth Tomar](https://www.linkedin.com/in/siddharth-tomar-6267471ba/)  
+
+---
+
+✨ **"Turning Data into AI-Driven Insights!"** 🚀  
