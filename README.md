@@ -3,9 +3,9 @@
 
 ---
 
-<p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ4bzFmcWlpNmh0cnZraXB0MzJ2MDY1ajFsZDlmdTZlejNhZWYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="350" alt="AI & Data Science">
-</p>
+<div>
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZ4bzFmcWlpNmh0cnZraXB0MzJ2MDY1ajFsZDlmdTZlejNhZWYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp" width="150" alt="AI & Data Science">
+</div>
 
 ### 🚀 About Me
 🔹 Passionate about **building AI-powered applications, automating workflows, and extracting insights from data.**  
